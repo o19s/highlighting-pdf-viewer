@@ -4,8 +4,8 @@
     <div class="app-body">
       <PDFViewer
         v-if="dataLoaded"
-        :id="id"
-        :solrResponse="highlightData"
+        :fileName="fileName"
+        :solrResponse="solrResponse"
       />
     </div>
   </div>
@@ -23,7 +23,7 @@ export default {
   data () {
     return {
       solrResponse: {},
-      id: 'usb_p5.pdf',
+      fileName: 'usb_p5.pdf',
       query: 'monetary policy',
       dataLoaded: false
     }
