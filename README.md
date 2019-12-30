@@ -21,11 +21,11 @@ This script runs the necessary command line arguments to create a standalone Jav
 ## Use
 In your project, you'll want to include the compiled Vue module from the dist directory and pass in required props for the PDF viewer to accurately render your PDF with highlights. In order to properly mount, the Vue runtime will need to be included in your project.
 
-in the `/examples` directory you can view `pdfviewer.js` to see an approach for chaining together the correct order of loading for the JavaScript assets, including the minified Vue runtime.
+in the `/examples` directory you can view `pdfviewer.loader.js` to see an approach for chaining together the correct order of loading for the JavaScript assets, including the minified Vue runtime.
 
-on line 17 of `pdfviewer.js` you will need to supply the path to your compiled copy of the PDF viewer module using the build script provided in the project.
+on line 23 of `pdfviewer.loader.js` you will need to supply the path to your compiled copy of the PDF viewer module using the build script provided in the project.
 
-Below is the code (`/examples/pdfviewer.bootstrap.js`) for passing the correct content into the Vue component.
+Below is the code (`/examples/pdfviewer.bootstrap.js`) for passing the correct content into the Vue component. This is the last file loaded by the chained approach in `pdfviewer.loader.js`.
 
 ```js
 (function () {
