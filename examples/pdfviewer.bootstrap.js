@@ -18,7 +18,7 @@
           h(pdfviewer, {
             props: {
               id: window.frb.docId,
-              highlights: window.frb.highlights
+              solrResponse: window.frb.solrResponse
             }
           })
         ])

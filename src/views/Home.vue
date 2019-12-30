@@ -5,7 +5,7 @@
       <PDFViewer
         v-if="dataLoaded"
         :id="id"
-        :highlights="highlightData"
+        :solrResponse="highlightData"
       />
     </div>
   </div>
@@ -22,7 +22,7 @@ export default {
   },
   data () {
     return {
-      highlightData: {},
+      solrResponse: {},
       id: 'usb_p5.pdf',
       query: 'monetary policy',
       dataLoaded: false
@@ -34,7 +34,7 @@ export default {
       return response.json()
     }).then((json) => {
       this.dataLoaded = true
-      this.highlightData = json
+      this.solrResponse = json
     })
   }
 }

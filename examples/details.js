@@ -34,11 +34,11 @@ $(document).ready(function () {
       }, 200); },
     docId: docId,
     query: query,
-    highlights: {}
+    solrResponse: {}
   }
 
   $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fq=parent_id:' + docId + '&fl=id,path,page_dimension,page_number&hl=on&hl.fragsize=500&hl.snippets=500&hl.fl=content_ocr&indent=on&wt=json&pl=on&rows=1000&sort=page_number ASC', function(data) {
-    window.frb.highlights = data
+    window.frb.solrResponse = data
 
     var snippets = [];
     for (var key in data.highlighting) {

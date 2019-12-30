@@ -16,11 +16,11 @@ export default {
       type: Number,
       default: 900
     },
-    highlights: {
+    solrResponse: {
       type: Object,
       default: () => {}
     },
-    id: {
+    fileName: {
       type: String,
       required: true
     },
@@ -68,7 +68,7 @@ export default {
       })
 
       let loadingTask = this.pdfjsLib.getDocument({
-        url: `${this.documentPath}${this.id}`
+        url: `${this.documentPath}${this.fileName}`
       })
       loadingTask.promise.then((pdfDocument) => {
         this.PDFViewer.setDocument(pdfDocument)
@@ -76,16 +76,16 @@ export default {
       })
     },
     generatePageDictionary () {
-      this.highlights.response.docs.forEach((doc, idx) => {
+      this.solrResponse.response.docs.forEach((doc, idx) => {
         this.pageDict[doc.page_number.toString()] = doc
       })
     },
     renderHighlightsOnPage (pageNumber) {
-      if (this.highlights && this.highlights.payloads) {
-        Object.keys(this.highlights.payloads).forEach(payloadDoc => {
-          let highlightTerms = this.highlights.payloads[payloadDoc].SpeechContentOcr
-            ? this.highlights.payloads[payloadDoc].SpeechContentOcr
-            : this.highlights.payloads[payloadDoc].content_ocr
+      if (this.solrResponse && this.solrResponse.payloads) {
+        Object.keys(this.solrResponse.payloads).forEach(payloadDoc => {
+          let highlightTerms = this.solrResponse.payloads[payloadDoc].SpeechContentOcr
+            ? this.solrResponse.payloads[payloadDoc].SpeechContentOcr
+            : this.solrResponse.payloads[payloadDoc].content_ocr
           Object.keys(highlightTerms).forEach(term => {
             highlightTerms[term].forEach(highlight => {
               let [targetPageNumber, ...coordinates] = highlight.payload
