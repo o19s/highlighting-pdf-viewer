@@ -16,7 +16,7 @@ You will need to have the `vue-cli-service` locally in your project. You can lea
 ./build.sh
 ```
 
-This script runs the neccessary command line arguments to create a standalone JavaScript module out of the Vue application. This module, which will be locaded in the `dist` directory is what you need to place inside of your web application.
+This script runs the necessary command line arguments to create a standalone JavaScript module out of the Vue component. This module, which will be built into the `dist` directory is what you need to place inside of your web application. The file you will want to include in your production build is `pdfviewer.umd.min.js`.
 
 ## Use
 In your project, you'll want to include the compiled Vue module from the dist directory and pass in required props for the PDF viewer to accurately render your PDF with highlights. In order to properly mount, the Vue runtime will need to be included in your project.
