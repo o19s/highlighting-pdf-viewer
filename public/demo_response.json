@@ -1,0 +1,350 @@
+{
+  "responseHeader":{
+    "zkConnected":true,
+    "status":0,
+    "QTime":93,
+    "params":{
+      "df":"content_ocr",
+      "hl":"on",
+      "indent":"on",
+      "echoParams":"all",
+      "fl":"id,path,page_dimension,page_number",
+      "hl.fragsize":"500",
+      "fq":"parent_id:usb_p5.pdf",
+      "sort":"page_number ASC",
+      "rows":"1000",
+      "hl.snippets":"500",
+      "q":"monetary policy",
+      "hl.fl":"content_ocr",
+      "pl":"on",
+      "wt":"json"}},
+  "response":{"numFound":17,"start":0,"docs":[
+      {
+        "id":"usb_p5.pdf_1",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":1},
+      {
+        "id":"usb_p5.pdf_6",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":6},
+      {
+        "id":"usb_p5.pdf_7",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":7},
+      {
+        "id":"usb_p5.pdf_10",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":10},
+      {
+        "id":"usb_p5.pdf_11",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":11},
+      {
+        "id":"usb_p5.pdf_12",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":12},
+      {
+        "id":"usb_p5.pdf_13",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":13},
+      {
+        "id":"usb_p5.pdf_18",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":18},
+      {
+        "id":"usb_p5.pdf_20",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":20},
+      {
+        "id":"usb_p5.pdf_23",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":23},
+      {
+        "id":"usb_p5.pdf_24",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":24},
+      {
+        "id":"usb_p5.pdf_29",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":29},
+      {
+        "id":"usb_p5.pdf_30",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":30},
+      {
+        "id":"usb_p5.pdf_31",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":31},
+      {
+        "id":"usb_p5.pdf_32",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":32},
+      {
+        "id":"usb_p5.pdf_33",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":33},
+      {
+        "id":"usb_p5.pdf_34",
+        "page_dimension":[" 0 0 864 1296"],
+        "page_number":34}]
+  },
+  "highlighting":{
+    "usb_p5.pdf_1":{
+      "content_ocr":[" <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"512\" data-start-offset=\"479\">policies|MSAxMjAgMTc1IDE3NSAxOTE=</em> and|MSAxODAgMTc1IDIwNSAxODg= procedures|MSAyMTAgMTc1IDI4OCAxOTE= to|MSAyOTMgMTc4IDMwNiAxODg= ensure|MSAzMTEgMTc5IDM1NiAxODg= that|MSAzNjIgMTc1IDM4OCAxODg= the|MSAzOTMgMTc1IDQxMyAxODg= branch|MSA0MTkgMTc1IDQ2NiAxODg= is|MSAxMjEgMTk1IDEzMSAyMDg= in|MSAxMzggMTk1IDE1MCAyMDg= compliance|MSAxNTYgMTk1IDIzOCAyMTE= with|MSAyNDQgMTk1IDI3NSAyMDg= all|MSAyODEgMTk1IDI5NyAyMDg= applicable|MSAzMDQgMTk1IDM3NiAyMTE= USS.|MSAzODQgMTk1IDQxMiAyMDg= federal|MSA0MTggMTk1IDQ2NiAyMDg= and|MSAxMjAgMjE1IDE0NSAyMjg="]},
+    "usb_p5.pdf_6":{
+      "content_ocr":[" <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"531\" data-start-offset=\"497\">policies,|NiAzMTkgMTYzIDM3OSAxODA=</em> procedures,|NiAzODQgMTYzIDQ2NyAxODA= and|NiAxNDMgMTgzIDE2OCAxOTY= guidelines|NiAxNzYgMTgzIDI0OSAyMDA= regarding|NiAyNTggMTgzIDMyNSAyMDA= asset|NiAzMzQgMTg2IDM2OCAxOTY= maintenance|NiAzNzcgMTg1IDQ2NiAxOTY= are|NiAxNDMgMjA3IDE2MyAyMTY= adequate.|NiAxNzEgMjAzIDIzOCAyMjA= To|NiAxNDMgMjIzIDE2MSAyMzY= determine|NiAxNzcgMjIzIDI0OSAyMzY= that|NiAyNjUgMjIzIDI5MiAyMzY= branch|NiAzMDggMjIzIDM1NiAyMzY= officers|NiAzNzIgMjIzIDQyNSAyMzY= and|NiA0NDEgMjIzIDQ2NiAyMzY= employees|NiAxNDIgMjQzIDIxOCAyNTk="]},
+    "usb_p5.pdf_7":{
+      "content_ocr":[" with|NyAyODYgMzYzIDMxNiAzNzU= <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"2121\" data-start-offset=\"2087\">policies,|NyAzMjggMzYzIDM4MyAzNzk=</em> practices,|NyAzOTkgMzYzIDQ2NyAzNzk= procedures|NyAxNTIgMzczIDIyOSA0MjM= and|NyAyNDAgMzgzIDI2NSAzOTU= internal|NyAyNzIgMzgzIDMyNSAzOTU= controls|NyAzMzEgMzg1IDM3NiAzOTU= for|NyAzOTUgMzgzIDQxNSAzOTU= appro-|NyA0MjEgMzg3IDQ2NiAzOTk= te|NyAxODAgNDA1IDE5MSA0MTU= asset|NyAyMDcgNDA1IDIzMiA0MTU= maintenance|NyAyNDAgNDAzIDMyOSA0MTU= monitoring.|NyAzMzYgNDAzIDQxOSA0MTk= Obtain|NyAxNDEgNDAzIDE5OSA0NDU= the|NyAyMDkgNDIzIDIyOSA0MzU= most|NyAyMzkgNDI1IDI3MyA0MzU="]},
+    "usb_p5.pdf_10":{
+      "content_ocr":[" complicating|MTAgMzA0IDg3NSAzOTcgODkx the|MTAgNDA2IDg3NSA0MjcgODg3 con-|MTAgNDM1IDg3OSA0NjYgODg3 duct|MTAgMTIwIDg5NSAxNTAgOTA3 of|MTAgMTU4IDg5NCAxNzMgOTA3 domestic|MTAgMTgwIDg5NSAyNDQgOTA3 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"8487\" data-start-offset=\"8454\">monetary|MTAgMjUyIDg5NyAzMTggOTEx</em> <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"8519\" data-start-offset=\"8488\">policy|MTAgMzI3IDg5NSAzNzAgOTEx</em> and|MTAgMzc5IDg5NSA0MDMgOTA3 insulate|MTAgNDEyIDg5NSA0NjYgOTA3 U.S.|MTAgMTIxIDkxNSAxNDkgOTI3 economic|MTAgMTU4IDkxOCAyMjcgOTI3 activity|MTAgMjM2IDkxNyAyODkgOTMx from|MTAgMjk5IDkxNCAzMzIgOTI3 IBF|MTAgMzQyIDkxNSAzNjkgOTI3 transactions.|MTAgMzc3IDkxNyA0NjYgOTI3"]},
+    "usb_p5.pdf_11":{
+      "content_ocr":[" determine|MTEgMTcxIDE2MyAyNDIgMTc2 if|MTEgMjUzIDE2MyAyNjQgMTc2 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"570\" data-start-offset=\"536\">policies,|MTEgMjc0IDE2MyAzMzMgMTgw</em> practices,|MTEgMzQ0IDE2MyA0MTEgMTgw proce-|MTEgNDIyIDE2NyA0NjYgMTgw dures,|MTEgMTQyIDE4MyAxODYgMTk3 and|MTEgMTk0IDE4MyAyMTkgMTk2 internal|MTEgMjI4IDE4MyAyODEgMTk2 controls|MTEgMjkwIDE4MyAzNDcgMTk2 regarding|MTEgMzU2IDE4MyA0MjQgMTk5 IBFs|MTEgNDMzIDE4NCA0NjYgMTk2 are|MTEgMTQzIDIwNyAxNjMgMjE2 adequate.|MTEgMTcxIDIwMyAyMzggMjE5 .|MTEgMTMxIDIzNCAxMzMgMjM2 To|MTEgMTQyIDIyMyAxNjEgMjM2 determine|MTEgMTY3IDIyMyAyMzcgMjM2"]},
+    "usb_p5.pdf_12":{
+      "content_ocr":[" Federal|MTIgMjc2IDk2MSAzMjggOTc0 Reserve|MTIgMzM3IDk2MiAzOTMgOTc0 Board|MTIgNDAyIDk2MiA0NDQgOTc0 of|MTIgNDUyIDk2MSA0NjggOTc0 Governors’|MTIgMTczIDk4MSAyNTMgOTk0 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"7909\" data-start-offset=\"7878\">policy|MTIgMjYyIDk4MSAzMDUgOTk4</em> statement|MTIgMzEzIDk4NCAzODEgOTk0 at|MTIgMzg4IDk4NCA0MDAgOTk0 the|MTIgNDA3IDk4MiA0MjggOTk0 time|MTIgNDM2IDk4MSA0NjYgOTk0 the|MTIgMTczIDEwMDEgMTk0IDEwMTQ= deposit|MTIgMjAyIDEwMDEgMjUzIDEwMTg= or|MTIgMjYwIDEwMDUgMjc1IDEwMTQ= credit|MTIgMjgyIDEwMDEgMzIyIDEwMTQ= relationship|MTIgMzI5IDEwMDEgNDEzIDEwMTg= is|MTIgNDIxIDEwMDEgNDMyIDEwMTQ=",
+        " obtained|MTIgNTQ0IDE4MyA2MDUgMTk2 acknowledging|MTIgNjE1IDE4MyA3MjQgMTk5 receipt|MTIgNzM0IDE4MyA3ODIgMjAw of|MTIgNzkyIDE4MyA4MDggMTk2 the|MTIgODE3IDE4MyA4MzcgMTk2 Board|MTIgNTQ1IDIwMyA1ODcgMjE2 of|MTIgNTk0IDIwMyA2MTAgMjE2 Governors”|MTIgNjE1IDIwMyA2OTUgMjE2 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"10071\" data-start-offset=\"10039\">policy.|MTIgNzA0IDIwMyA3NTEgMjE5</em> (Note:|MTIgNzU5IDIwMyA4MDMgMjE4 IBF|MTIgODExIDIwMyA4MzggMjE2 transactions|MTIgNTQ0IDIyMyA2MjkgMjM2 with|MTIgNjQxIDIyMyA2NzEgMjM2 foreign|MTIgNjgzIDIyMyA3MzQgMjM5 governments|MTIgNzQ1IDIyNSA4MzcgMjM5 and|MTIgNTQ0IDI0MyA1NjkgMjU2"]},
+    "usb_p5.pdf_13":{
+      "content_ocr":[" properly|MTMgNzI4IDcwNyA3ODcgNzIz main-|MTMgNzk3IDcxMSA4MzcgNzIw lished,|MTMgMTUyIDcyNCAyMDAgNzM4 advising|MTMgMjEzIDcyNCAyNzQgNzQw of|MTMgMjg4IDcyNCAzMDQgNzM3 the|MTMgMzE2IDcyNCAzMzcgNzM3 Board’s|MTMgMzUxIDcyNCA0MDggNzM3 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"9999\" data-start-offset=\"9968\">policy|MTMgNDIyIDcyNCA0NjYgNzQw</em> taining|MTMgNTIzIDcyOSA1NzIgNzQz segregated|MTMgNTc5IDcyNyA2NTQgNzQz or|MTMgNjYxIDczMSA2NzYgNzQw otherwise|MTMgNjgyIDcyNyA3NTEgNzQw identifiable|MTMgNzU5IDcyNyA4MzcgNzQw regarding|MTMgMTUyIDc0NCAyMTkgNzYw the|MTMgMjI1IDc0NCAyNDYgNzU2 use|MTMgMjUzIDc0OCAyNzUgNzU2",
+        " acknowledging|MTMgMjc4IDg0NCAzODcgODYw receipt|MTMgMzk2IDg0NCA0NDMgODYw of|MTMgNDUyIDg0NCA0NjYgODU2 IBFs?|MTMgNTIzIDg0OCA1NjUgODYw the|MTMgMTUyIDg2NCAxNzIgODc2 Board|MTMgMTgwIDg2NCAyMjIgODc2 of|MTMgMjI5IDg2NCAyNDIgODc2 Governors’|MTMgMjUwIDg2NCAzMzAgODc2 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"12608\" data-start-offset=\"12577\">policy|MTMgMzM4IDg2NCAzODIgODgw</em> statement?|MTMgMzkwIDg2NCA0NjUgODc2 17,|MTMgNDk0IDg2OSA1MTMgODgx Are|MTMgNTIzIDg2OSA1NDkgODgx IBF-related|MTMgNTU1IDg2OSA2MzYgODgx regulatory|MTMgNjQyIDg2OSA3MTUgODg1 reports|MTMgNzIxIDg3MSA3NjkgODg1 filed|MTMgNzc2IDg2OSA4MDYgODgx"]},
+    "usb_p5.pdf_18":{
+      "content_ocr":[" and|MTggNTE0IDM0MyA1MzkgMzU1 discuss|MTggNTQ1IDM0MyA1OTYgMzU1 with|MTggNjAzIDM0MyA2MzMgMzU1 management|MTggNjQwIDM0NSA3MzEgMzU5 recommended|MTggNzM3IDM0MyA4MzggMzU1 corrective|MTggNTE0IDM2NSA1ODQgMzc1 action|MTggNTkyIDM2MyA2MzQgMzc1 when|MTggNjQyIDM2MyA2ODAgMzc1 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"6021\" data-start-offset=\"5987\">policies,|MTggNjg3IDM2MyA3NDcgMzc5</em> practices|MTggNzU0IDM2NSA4MTYgMzc5 or|MTggODI0IDM2NyA4MzggMzc1 procedures|MTggNTE0IDM4MyA1OTEgMzk5 are|MTggNTk3IDM4NyA2MTcgMzk1 deficient|MTggNjIzIDM4MyA2ODQgMzk1 or|MTggNjg5IDM4NyA3MDMgMzk1 when|MTggNzA4IDM4MyA3NDUgMzk1"]},
+    "usb_p5.pdf_20":{
+      "content_ocr":[" and|MjAgMTYxIDIzNiAxODYgMjQ5 regulations|MjAgMTk0IDIzNiAyNzMgMjUy and|MjAgMjgyIDIzNiAzMDYgMjQ5 to|MjAgMzE1IDIzOSAzMjggMjQ5 establish|MjAgMzM2IDIzNiAzOTggMjQ5 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"1726\" data-start-offset=\"1692\">policies,|MjAgNDA3IDIzNiA0NjcgMjUy</em> practices,|MjAgMTIxIDI1NiAxODggMjcy procedures,|MjAgMTk3IDI1NiAyODAgMjcy and|MjAgMjg5IDI1NiAzMTQgMjY5 internal|MjAgMzI0IDI1NiAzNzcgMjY5 controls|MjAgMzg3IDI1NiA0NDQgMjY5 to|MjAgNDUzIDI1OCA0NjcgMjY5 ensure|MjAgMTIwIDI4MCAxNjYgMjg5 compliance.|MjAgMTczIDI3NiAyNTkgMjky The|MjAgMTM4IDI5NiAxNjUgMzA5 following|MjAgMTcyIDI5NiAyNDEgMzEy",
+        " three|MjAgMzM0IDQ3NiAzNjggNDg4 federal|MjAgMzc2IDQ3NSA0MjUgNDg4 bank|MjAgNDMzIDQ3NiA0NjcgNDg4 supervisory|MjAgMTIwIDQ5OSAyMDIgNTEy agencies|MjAgMjA5IDQ5OSAyNzAgNTEy issued|MjAgMjc3IDQ5NSAzMjAgNTA4 a|MjAgMzI3IDQ5OSAzMzQgNTA4 joint|MjAgMzM5IDQ5OCAzNzIgNTEy <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"3898\" data-start-offset=\"3867\">policy|MjAgMzc4IDQ5NSA0MjIgNTEy</em> state-|MjAgNDI5IDQ5OCA0NjYgNTA4 ment|MjAgMTIwIDUxOCAxNTUgNTI4 to|MjAgMTY3IDUxOCAxODAgNTI4 address|MjAgMTkxIDUxNiAyNDQgNTI4 their|MjAgMjU1IDUxNiAyODggNTI4 concern|MjAgMjk4IDUxOSAzNTUgNTI4 regarding|MjAgMzY2IDUxNiA0MzQgNTMy"]},
+    "usb_p5.pdf_23":{
+      "content_ocr":[" July|MjMgNjMgODU5IDkyIDg3NQ== 1985,|MjMgMTAwIDg1OSAxMzcgODc0 the|MjMgMTQyIDg1OSAxNjMgODcy Department|MjMgMTY4IDg1OSAyNTIgODc2 of|MjMgMjQ4IDg1NSAyNjUgODgx Justice|MjMgMjY2IDg1OSAzMjMgODcy issued.|MjMgMzI5IDg1OSAzNzMgODcy a|MjMgMjYgODgzIDM0IDg5Mg== <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"8022\" data-start-offset=\"7991\">Policy|MjMgMzggODc5IDgzIDg5NQ==</em> Concerning|MjMgODggODc5IDE3MSA4OTU= Prosecution|MjMgMTc2IDg3OSAyNTkgODky Under|MjMgMjY1IDg3OSAzMDkgODky the|MjMgMzE0IDg3OSAzMzUgODky New|MjMgMzQwIDg3OSAzNzIgODky Bank|MjMgMjcgODk5IDYzIDkxMg== Bribery|MjMgNzAgODk5IDEyNCA5MTU=",
+        " Statute.|MjMgMTMxIDg5OSAxODQgOTEy In|MjMgMTkxIDg5OSAyMDQgOTEy that|MjMgMjExIDg5OSAyMzcgOTEy <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"8372\" data-start-offset=\"8340\">policy,|MjMgMjQ0IDg5OSAyOTEgOTE1</em> the|MjMgMjk3IDg5OSAzMTggOTEy Justice|MjMgMzI0IDg5OSAzNzIgOTEy Department|MjMgMjcgOTE5IDExMCA5MzU= discussed|MjMgMTE3IDkxOSAxODUgOTMy the|MjMgMTkxIDkxOSAyMTIgOTMy basic|MjMgMjE5IDkxOSAyNTUgOTMy elements|MjMgMjYxIDkxOSAzMjQgOTMy of|MjMgMzMxIDkxOSAzNDYgOTMy the|MjMgMzUyIDkxOSAzNzIgOTMy prohibited|MjMgMjcgOTM5IDk5IDk1NQ== conduct|MjMgMTA1IDkzOSAxNjEgOTUy under|MjMgMTY3IDkzOSAyMDggOTUy",
+        " law.|MjMgNTQ5IDM2MiA1NzggMzc0 The|MjMgNTg2IDM2MiA2MTMgMzc0 branch’s|MjMgNjIxIDM2MiA2ODIgMzc0 internal|MjMgNjkwIDM2MiA3NDMgMzc0 code|MjMgMzk3IDM4MiA0MzAgMzk0 or|MjMgNDQyIDM4NiA0NTcgMzk0 written|MjMgNDY4IDM4NCA1MTggMzk0 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"14871\" data-start-offset=\"14840\">policy|MjMgNTMwIDM4MiA1NzMgMzk4</em> should|MjMgNTg2IDM4MiA2MzIgMzk0 prohibit|MjMgNjQ0IDM4MiA3MDAgMzk4 such|MjMgNzEyIDM4MiA3NDQgMzk0 persons|MjMgMzk4IDQwNiA0NTEgNDE4 from|MjMgNDU4IDQwMiA0OTEgNDE0 (1)|MjMgNDk3IDQwMiA1MTYgNDE3 soliciting|MjMgNTIzIDQwMiA1ODggNDE4 for|MjMgNTk0IDQwMiA2MTUgNDE0",
+        " <em data-num-tokens=\"2\" data-score=\"1.0\" data-end-offset=\"17240\" data-start-offset=\"17204\">code&#x2F;policy|MjMgNDk0IDU4MSA1NzcgNTk4</em> may|MjMgNTg0IDU4NSA2MTMgNTk3 specify|MjMgNjIxIDU4MSA2NzEgNTk4 appropri|MjMgNjc4IDU4MSA3NDQgNTk4 ate|MjMgMzk4IDYwMyA0MTcgNjE0 exceptions|MjMgNDI5IDYwMSA1MDUgNjE4 to|MjMgNTE3IDYwMyA1MzAgNjE0 the|MjMgNTQyIDYwMSA1NjMgNjE0 general|MjMgNTc1IDYwMSA2MjcgNjE3 prohibition|MjMgNjM5IDYwMSA3MTggNjE4 of|MjMgNzMwIDYwMSA3NDUgNjE0 accepting|MjMgMzk4IDYyMSA0NjUgNjM4 something|MjMgNDcxIDYyMSA1NDQgNjM3 of|MjMgNTQzIDYxMSA1NTggNjQy value|MjMgNTU5IDYyMSA2MDYgNjM0 in|MjMgNjEzIDYyMSA2MjQgNjM0",
+        " connection|MjMgNjMwIDYyMSA3MDcgNjM0 with|MjMgNzEzIDYyMSA3NDMgNjM0 branch|MjMgMzk4IDY0MSA0NDUgNjU0 business.|MjMgNDUzIDY0MSA1MTcgNjU0 Furthermore,|MjMgNDE2IDY2MSA1MDkgNjc2 the|MjMgNTE1IDY2MSA1MzYgNjc0 branch’s|MjMgNTQyIDY2MSA2MDMgNjc0 code|MjMgNjA5IDY2MSA2NDIgNjc0 of|MjMgNjQ4IDY2MSA2NjMgNjc0 conduct|MjMgNjY4IDY2MSA3MjQgNjc0 or|MjMgNzMwIDY2NSA3NDQgNjc0 written|MjMgMzk4IDY4MyA0NDcgNjk0 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"18131\" data-start-offset=\"18100\">policy|MjMgNDU3IDY4MSA1MDAgNjk3</em> should|MjMgNTA5IDY4MSA1NTYgNjk0 provide|MjMgNTY1IDY4MSA2MTggNjk3 that|MjMgNjI3IDY4MSA2NTMgNjk0",
+        " <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"18779\" data-start-offset=\"18747\">policy,|MjMgNjYwIDcyMSA3MDggNzM3</em> that|MjMgNzE4IDcyMSA3NDQgNzMz branch|MjMgMzk4IDc0MSA0NDUgNzUz official|MjMgNDUyIDc0MSA1MDAgNzU0 must|MjMgNTA4IDc0MyA1NDIgNzUz disclose|MjMgNTQ4IDc0MSA2MDUgNzU0 that|MjMgNjEyIDc0MSA2MzggNzUz incident|MjMgNjQ1IDc0MSA3MDIgNzUz to|MjMgNzA4IDc0MyA3MjEgNzU0 an|MjMgNzI4IDc0NSA3NDMgNzUz |MjMgMzk3IDc2MSA2OTkgODEz ic|MjMgNTgxIDc5NyA1OTggODIy closure|MjMgNjg3IDc4NyA3NDMgODIy evidences|MjMgMzk3IDgyMSA0NjAgODMz good|MjMgNDc3IDgyMSA1MTIgODM3 faith|MjMgNTIyIDgyMSA1NTQgODMz when|MjMgNTY1IDgyMSA2MDIgODMz"]},
+    "usb_p5.pdf_24":{
+      "content_ocr":[" another|MjQgMTk1IDEyMiAyNDggMTM1 part.|MjQgMjU4IDEyNSAyODkgMTM5 Thus,|MjQgMjk4IDEyMiAzMzkgMTM1 the|MjQgMzQ4IDEyMiAzNjkgMTM1 branch|MjQgMzc5IDEyMiA0MjYgMTM1 may|MjQgNDM3IDEyNiA0NjYgMTM5 establish,|MjQgMTIwIDE0MiAxODcgMTU3 in|MjQgMTk4IDE0MiAyMTAgMTU1 its|MjQgMjIxIDE0MiAyMzcgMTU1 own|MjQgMjQ3IDE0NiAyNzcgMTU1 <em data-num-tokens=\"2\" data-score=\"1.0\" data-end-offset=\"836\" data-start-offset=\"799\">code&#x2F;policy,|MjQgMjg4IDE0MiAzNzUgMTU5</em> a|MjQgMzg1IDE0NiAzOTIgMTU1 range|MjQgNDAzIDE0NiA0NDIgMTU5 of|MjQgNDUyIDE0MiA0NjggMTU1 dollar|MjQgMTIwIDE2MiAxNjIgMTc1 values,|MjQgMTY5IDE2MiAyMTkgMTc1 which|MjQgMjI2IDE2MiAyNjkgMTc1",
+        " exceptions|MjQgMTIwIDI2NSAxOTYgMjgx to|MjQgMjAyIDI2NyAyMTUgMjc4 the|MjQgMjIxIDI2NSAyNDIgMjc4 general|MjQgMjQ5IDI2NSAzMDAgMjgx prohibition|MjQgMzA3IDI2NSAzODUgMjgx in|MjQgMzkzIDI2NSA0MDQgMjc3 its|MjQgNDEyIDI2NSA0MjcgMjc4 code|MjQgNDMzIDI2NSA0NjYgMjc4 of|MjQgMTIwIDI4NSAxMzUgMjk4 conduct|MjQgMTQwIDI4NSAxOTcgMjk4 or|MjQgMjAzIDI4OSAyMTcgMjk4 written|MjQgMjIzIDI4NSAyNzMgMjk4 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"2455\" data-start-offset=\"2423\">policy,|MjQgMjgwIDI4NSAzMjcgMzAx</em> such|MjQgMzM0IDI4NSAzNjUgMjk4 as|MjQgMzcyIDI4OSAzODYgMjk4 those|MjQgMzkyIDI4NSA0MjkgMjk4 that:|MjQgNDM1IDI4NSA0NjUgMjk3",
+        " to|MjQgMjkxIDEwNjMgMzA0IDEwNzM= prohibit|MjQgMzE0IDEwNjEgMzcwIDEwNzc= in|MjQgMzgwIDEwNjUgMzkyIDEwNzM= its|MjQgNDAzIDEwNjMgNDE4IDEwNzM= code&#x2F;|MjQgNDI4IDEwNjEgNDY3IDEwNzM= <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"10016\" data-start-offset=\"9980\">policy,|MjQgMTIwIDEwODEgMTY4IDEwOTc=</em> branch|MjQgMTgwIDEwODEgMjI4IDEwOTM= officials|MjQgMjQxIDEwODEgMjk3IDEwOTM= from|MjQgMzEwIDEwODEgMzQzIDEwOTM= self-dealing|MjQgMzU2IDEwODEgNDQwIDEwOTc= or|MjQgNDUyIDEwODUgNDY3IDEwOTM= otherwise|MjQgMTIwIDExMDEgMTg5IDExMTM= trading|MjQgMjAwIDExMDEgMjQ5IDExMTc= on|MjQgMjYwIDExMDUgMjc3IDExMTM="]},
+    "usb_p5.pdf_29":{
+      "content_ocr":[" regulatory|MjkgMjA5IDEyMiAyODEgMTM5 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"537\" data-start-offset=\"504\">policies|MjkgMjg4IDEyMiAzNDIgMTM5</em> and|MjkgMzQ4IDEyMiAzNzMgMTM1 procedures|MjkgMjYgMTQyIDEwMyAxNTk= for|MjkgMTA4IDE0MiAxMjggMTU1 domestically-chartered|MjkgMTMyIDE0MiAyOTQgMTU5 bank|MjkgMjk5IDE0MiAzMzMgMTU1 com-|MjkgMzM3IDE0NiAzNzMgMTU1 pliance|MjkgMjYgMTYyIDc3IDE3OQ== examinations.|MjkgODYgMTYyIDE4NSAxNzU= Examiner|MjkgMTk0IDE2MyAyNjMgMTc1 guidelines|MjkgMjcxIDE2MiAzNDQgMTc5 for|MjkgMzUzIDE2MiAzNzMgMTc1 conducting|MjkgMjYgMTgyIDEwNSAxOTg= compliance|MjkgMTExIDE4MiAxOTMgMTk4",
+        " action|MjkgMjYgNDAyIDY5IDQxNA== under|MjkgODMgNDAyIDEyMyA0MTQ= the|MjkgMTM1IDQwMiAxNTYgNDE0 Board’s|MjkgMTY5IDQwMiAyMjEgNDE0 Regulation|MjkgMjM4IDQwMiAzMTUgNDE4 B&#x2F;Fair|MjkgMzI4IDQwMiAzNzMgNDE0 Housing|MjkgMjcgNDIyIDg2IDQzOA== Act|MjkgOTMgNDIyIDExOCA0MzQ= <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"3355\" data-start-offset=\"3324\">Policy|MjkgMTI1IDQyMiAxNzAgNDM4</em> Guide.|MjkgMTc3IDQyMiAyMjQgNDM0 Following|MjkgNDQgNDQ0IDExNyA0NjA= is|MjkgMTI4IDQ0OCAxMzggNDU2 a|MjkgMTQ5IDQ0OCAxNTYgNDU2 description|MjkgMTY2IDQ0NCAyNDUgNDYw of|MjkgMjU1IDQ0NCAyNjggNDU2 some|MjkgMjgwIDQ0OCAzMTcgNDU2"]},
+    "usb_p5.pdf_30":{
+      "content_ocr":[" according|MzAgNTI3IDM2NCA1OTcgMzgw to|MzAgNjA0IDM2NiA2MTcgMzc2 specified|MzAgNjI1IDM2NCA2ODcgMzgw time|MzAgNjk0IDM2NCA3MjUgMzc2 schedules,|MzAgNzMzIDM2NCA4MDEgMzc2 and|MzAgODEzIDM2NCA4MzggMzc2 to|MzAgNDkxIDM4NiA1MDQgMzk2 disclose|MzAgNTE0IDM4NCA1NzEgMzk2 their|MzAgNTgwIDM4NCA2MTMgMzk2 funds|MzAgNjIyIDM4NCA2NjEgMzk2 availability|MzAgNjcxIDM4NCA3NTAgNDAw <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"10118\" data-start-offset=\"10085\">policies|MzAgNzYwIDM4NCA4MTUgNDAw</em> to|MzAgODI1IDM4NiA4MzggMzk2 their|MzAgNDkxIDQwNCA1MjQgNDE2 customers.|MzAgNTMzIDQwOCA2MDQgNDE2 The|MzAgNjE4IDQwNCA2NDUgNDE2"]},
+    "usb_p5.pdf_31":{
+      "content_ocr":[" the|MzEgMTkwIDUwMyAyMTAgNTE1 requirements|MzEgMjE3IDUwNSAzMTAgNTE5 of|MzEgMzE3IDUwMiAzMzIgNTE1 Regulation|MzEgMzM4IDUwMiA0MTUgNTE5 K|MzEgNDIzIDUwMyA0MzQgNTE1 and|MzEgNDQyIDUwMyA0NjYgNTE1 .|MzEgMTQwIDU1MyAxNDIgNTU1 To|MzEgMTUxIDU0MyAxNzAgNTU1 determine|MzEgMTc2IDU0MiAyNDcgNTU1 if|MzEgMjU0IDU0MiAyNjUgNTU1 the|MzEgMjcwIDU0MyAyOTAgNTU1 branch|MzEgMjk3IDU0MiAzNDQgNTU1 has|MzEgMzUxIDU0MyAzNzQgNTU1 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"4538\" data-start-offset=\"4505\">policies|MzEgMzgwIDU0MiA0MzUgNTU5</em> and|MzEgNDQyIDU0MyA0NjYgNTU1 procedures|MzEgMTUyIDU2MyAyMzEgNTc5 covering|MzEgMjQ0IDU2MiAzMDggNTc5"]},
+    "usb_p5.pdf_32":{
+      "content_ocr":[" the|MzIgMjk3IDE2MyAzMTggMTc2 branch|MzIgMzI1IDE2MyAzNzIgMTc2 has|MzIgMzc5IDE2MyA0MDIgMTc2 a|MzIgNDA5IDE2NyA0MTYgMTc2 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"633\" data-start-offset=\"602\">policy|MzIgNDIzIDE2MyA0NjYgMTgw</em> v|MzIgMTI5IDM2MyAxNDIgMzc1 2|MzIgMTMwIDQ0MyAxNDIgNDU1 &gt;|MzIgMTI5IDU4MyAxNDIgNTk1 or|MzIgMTUxIDE4NyAxNjYgMTk2 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"776\" data-start-offset=\"743\">policies|MzIgMTc1IDE4MyAyMjkgMjAw</em> prohibiting|MzIgMjM4IDE4MyAzMTcgMjAw improper|MzIgMzI2IDE4MyAzOTEgMjAw or|MzIgNDAwIDE4NyA0MTQgMTk2 illegal|MzIgNDIzIDE4MyA0NjYgMjAw payments,|MzIgMTUyIDIwNSAyMjQgMjIw bribes,|MzIgMjMyIDIwMyAyNzkgMjE4 kickbacks,|MzIgMjg3IDIwMyAzNjIgMjE4",
+        " a|MzIgNDAyIDMwNyA0MDkgMzE1 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"2108\" data-start-offset=\"2077\">policy|MzIgNDIyIDMwMyA0NjYgMzE5</em> addressing|MzIgMTUyIDMyMyAyMjcgMzM5 the|MzIgMjM4IDMyMyAyNTkgMzM2 requirements|MzIgMjcwIDMyNSAzNjIgMzM5 of|MzIgMzczIDMyMyAzODggMzM2 the|MzIgMzk4IDMyMyA0MTkgMzM1 Bank|MzIgNDMwIDMyMyA0NjYgMzM1 Secrecy|MzIgMTUyIDM0MyAyMDcgMzU5 Act.|MzIgMjE1IDM0MyAyNDQgMzU1 Determine|MzIgMTUyIDM2MyAyMjYgMzc1 whether|MzIgMjMyIDM2MyAyODkgMzc1 the|MzIgMjk0IDM2MyAzMTUgMzc1 <em data-num-tokens=\"2\" data-score=\"1.0\" data-end-offset=\"2494\" data-start-offset=\"2459\">policy(s),|MzIgMzIxIDM2MyAzODkgMzc5</em> if|MzIgMzk0IDM2MyA0MDUgMzc1 any,|MzIgNDEwIDM2NyA0MzggMzc5",
+        " any|MzIgMjE4IDQ0NiAyNDMgNDU5 investigation|MzIgMjU3IDQ0NSAzNDggNDU5 or|MzIgMzYxIDQ0NyAzNzUgNDU1 study|MzIgMzg4IDQ0MyA0MjUgNDU5 per-|MzIgNDM5IDQ0NiA0NjYgNDU5 formed|MzIgMTUyIDQ2MyAyMDIgNDc1 by|MzIgMjExIDQ2MyAyMjcgNDc5 or|MzIgMjM2IDQ2NiAyNTAgNDc1 on|MzIgMjU4IDQ2NyAyNzUgNDc1 behalf|MzIgMjgzIDQ2MiAzMjggNDc1 of|MzIgMzM1IDQ2MiAzNTEgNDc1 the|MzIgMzU4IDQ2MyAzNzggNDc1 head|MzIgMzg3IDQ2MyA0MTkgNDc1 office|MzIgNDI3IDQ2MyA0NjYgNDc1 that|MzIgMTUyIDQ4MyAxNzcgNDk1 evaluates|MzIgMTg2IDQ4MyAyNTIgNDk1 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"3590\" data-start-offset=\"3559\">policy|MzIgMjYwIDQ4MyAzMDQgNDk5</em>"]},
+    "usb_p5.pdf_33":{
+      "content_ocr":[" PRACTICES|MzMgMzMxIDE2NCA0NDggMTc5 ACT|MzMgMTIwIDE4NiAxNjMgMjAx .|MzMgMTQwIDIzOCAxNDIgMjQw Has|MzMgMTUyIDIyNyAxNzggMjQw the|MzMgMTg0IDIyNyAyMDUgMjQw branch|MzMgMjExIDIyNyAyNTggMjQw adopted|MzMgMjY0IDIyNyAzMTkgMjQz written|MzMgMzI1IDIyNyAzNzQgMjQw <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"768\" data-start-offset=\"735\">policies|MzMgMzgxIDIyNyA0MzUgMjQz</em> that|MzMgNDQwIDIyNyA0NjcgMjQw prohibit|MzMgMTUyIDI0NyAyMDggMjYz the|MzMgMjEyIDI0NyAyMzMgMjYw offering|MzMgMjM4IDI0NyAyOTQgMjYz or|MzMgMjk5IDI1MSAzMTMgMjYw payment|MzMgMzE4IDI0OSAzNzkgMjYz of|MzMgMzgzIDI0NyAzOTkgMjYw improper|MzMgNDAzIDI0NyA0NjcgMjYz",
+        " officials?|MzMgMzI4IDQwNyAzOTIgNDE5 Has|MzMgMTUyIDQyNyAxNzggNDM5 this|MzMgMTg3IDQyNyAyMTIgNDM5 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"2689\" data-start-offset=\"2658\">policy|MzMgMjIxIDQyNyAyNjQgNDQz</em> been|MzMgMjczIDQyNyAzMDYgNDM5 communicated|MzMgMzE0IDQyNyA0MTkgNDM5 to|MzMgNDI4IDQyOSA0NDEgNDM5 all|MzMgNDUwIDQyNyA0NjYgNDM5 branch|MzMgMTUyIDQ0NyAxOTkgNDU5 employees?|MzMgMjA2IDQ0NyAyOTAgNDYz If|MzMgMTUyIDQ2NyAxNjEgNDc5 an|MzMgMTcyIDQ3MCAxODcgNDc5 allowable|MzMgMTk2IDQ2NyAyNjUgNDc5 payment|MzMgMjc0IDQ2OSAzMzUgNDgz is|MzMgMzQ0IDQ3MCAzNTQgNDc5 made,|MzMgMzY0IDQ2NyA0MDYgNDgw did|MzMgNDE0IDQ2NyA0MzYgNDc5",
+        " ELECTION|MzMgMjI2IDY1NyAzMzIgNjcy CAMPAIGN|MzMgMzQxIDY1NyA0NTcgNjcy ACT|MzMgMTIxIDY3OSAxNjMgNjk0 5.|MzMgMTI5IDcyMCAxNDIgNzMz Has|MzMgMTUyIDcyMCAxNzggNzMz the|MzMgMTg0IDcyMCAyMDUgNzMz branch|MzMgMjExIDcyMCAyNTggNzMz adopted|MzMgMjY0IDcyMCAzMTkgNzM2 written|MzMgMzI1IDcyMCAzNzQgNzMz <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"4964\" data-start-offset=\"4931\">policies|MzMgMzgxIDcyMCA0MzUgNzM2</em> that|MzMgNDQwIDcyMCA0NjcgNzMz prohibit|MzMgMTUyIDc0MCAyMDggNzU2 it|MzMgMjE5IDc0MiAyMjggNzUy from|MzMgMjM5IDc0MCAyNzIgNzUz making|MzMgMjg0IDc0MCAzMzYgNzU2 contributions|MzMgMzQ3IDc0MCA0NDEgNzUz",
+        " political|MzMgMjI1IDgwMCAyODIgODE2 convention,|MzMgMjk1IDgwMCAzNzkgODE0 or|MzMgMzkyIDgwNCA0MDYgODEy caucus|MzMgNDE4IDgwNCA0NjYgODEy held|MzMgMTUyIDgyMCAxODIgODMy to|MzMgMTg3IDgyMiAyMDAgODMy select|MzMgMjA2IDgyMCAyNDUgODMy candidates|MzMgMjUwIDgyMCAzMjUgODMy for|MzMgMzMxIDgyMCAzNTEgODMy political|MzMgMzU2IDgyMCA0MTMgODM2 office?|MzMgNDE5IDgyMCA0NjcgODMy Does|MzMgMTUyIDg0MCAxODcgODUy the|MzMgMTk0IDg0MCAyMTUgODUy <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"6130\" data-start-offset=\"6099\">policy|MzMgMjIyIDg0MCAyNjYgODU2</em> also|MzMgMjczIDg0MCAzMDEgODUy prohibit|MzMgMzA4IDg0MCAzNjQgODU2",
+        " .|MzMgMTQwIDkzMCAxNDIgOTMy Has|MzMgMTUyIDkyMCAxNzggOTMy this|MzMgMTg3IDkyMCAyMTIgOTMy <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"6795\" data-start-offset=\"6764\">policy|MzMgMjIxIDkyMCAyNjQgOTM2</em> been|MzMgMjczIDkyMCAzMDYgOTMy communicated|MzMgMzE0IDkyMCA0MTkgOTMy to|MzMgNDI4IDkyMiA0NDEgOTMy all|MzMgNDUwIDkyMCA0NjYgOTMy branch|MzMgMTUyIDk0MCAxOTkgOTUy employees?|MzMgMjA2IDk0MCAyOTAgOTU2 .|MzMgMTQwIDk3MCAxNDIgOTcz The|MzMgMTUxIDk2MCAxNzggOTcz statute|MzMgMTg1IDk2MiAyMzEgOTcz allows|MzMgMjM3IDk2MCAyODMgOTcz the|MzMgMjkwIDk2MCAzMTEgOTcz branch|MzMgMzE4IDk2MCAzNjUgOTcy to|MzMgMzcyIDk2MiAzODUgOTcz",
+        " sala-|MzMgNDM0IDExODEgNDY2IDExOTM= *|MzMgMTMwIDExMjAgMTQyIDExMzM= °|MzMgMTI5IDExNjEgMTM3IDExNzM= ried,|MzMgNTIzIDE2MyA1NTUgMTc2 not|MzMgNTYyIDE2NSA1ODMgMTc2 hourly|MzMgNTkwIDE2MyA2MzYgMTgw paid,|MzMgNjQzIDE2MyA2NzggMTc5 employees|MzMgNjg1IDE2MyA3NjAgMTc5 who|MzMgNzY4IDE2MyA3OTggMTc2 have|MzMgODA1IDE2MyA4MzcgMTc2 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"9621\" data-start-offset=\"9590\">policy|MzMgNTIzIDE4MyA1NjYgMTk5</em> making,|MzMgNTczIDE4MyA2MzEgMTk5 managerial,|MzMgNjM3IDE4MyA3MjAgMTk5 professional,|MzMgNzI2IDE4MyA4MTggMTk5 or|MzMgODI0IDE4NyA4MzggMTk2 supervisory|MzMgNTIzIDIwNyA2MDUgMjE5",
+        " BRIBERY|MzMgNTYxIDM2MCA2NTUgMzc1 ACT|MzMgNjYzIDM2MCA3MDYgMzc1 1|MzMgNDk0IDQwMiA0OTcgNDE0 8|MzMgNTAxIDY4MSA1MDggNjkz a|MzMgNTAxIDgyMCA1MDggODMz .|MzMgNTExIDQxMiA1MTMgNDE0 Has|MzMgNTIzIDQwMiA1NTAgNDE0 the|MzMgNTU1IDQwMSA1NzUgNDE0 branch|MzMgNTgxIDQwMSA2MjggNDE0 adopted|MzMgNjMzIDQwMSA2ODkgNDE3 a|MzMgNjk0IDQwNSA3MDEgNDE0 code|MzMgNzA2IDQwMSA3MzkgNDE0 of|MzMgNzQ0IDQwMSA3NTkgNDE0 conduct|MzMgNzYzIDQwMSA4MTkgNDE0 or|MzMgODI0IDQwNSA4MzggNDE0 written|MzMgNTIzIDQyMSA1NzIgNDM0 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"11336\" data-start-offset=\"11305\">policy|MzMgNTc5IDQyMSA2MjIgNDM3</em>",
+        " consummated?|MzMgNTY1IDY2MSA2NzIgNjcz 2|MzMgNTIzIDQ2NSA1MzQgNDc0 =|MzMgNTIzIDU2MSA1MzUgNTcz |MzMgNzY0IDYyNSA3OTMgNjM0 |MzMgNzgyIDY0MCA3OTcgNjQ0 dis|MzMgNzcwIDY0MSA3ODYgNjUz |MzMgNzQ5IDY0MSA4MjAgNjU3 .|MzMgNTExIDY5MSA1MTMgNjkz Does|MzMgNTIzIDY4MSA1NTkgNjkz the|MzMgNTY1IDY4MSA1ODYgNjkz code|MzMgNTkxIDY4MSA2MjQgNjkz or|MzMgNjMwIDY4NSA2NDUgNjkz <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"13800\" data-start-offset=\"13769\">policy|MzMgNjUwIDY4MSA2OTQgNjk3</em> describe|MzMgNzAwIDY4MSA3NTkgNjkz prohibited|MzMgNzY1IDY4MSA4MzcgNjk3 conduct,|MzMgNTIzIDcwMSA1ODMgNzEz including|MzMgNTg3IDcwMSA2NTIgNzE3",
+        " having|MzMgNzIwIDg0MCA3NzIgODU2 received|MzMgNzc4IDg0MCA4MzggODUz a|MzMgNTIzIDg2NCA1MzAgODcz copy|MzMgNTM0IDg2NCA1NjggODc2 of|MzMgNTczIDg2MCA1ODkgODcz this|MzMgNTkyIDg2MCA2MTcgODcz code|MzMgNjIyIDg2MCA2NTQgODcz or|MzMgNjU5IDg2NCA2NzQgODcz <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"15777\" data-start-offset=\"15745\">policy?|MzMgNjc4IDg2MCA3MzAgODc2</em> Is|MzMgNzM1IDg2MSA3NDcgODcz an|MzMgNzUyIDg2NCA3NjcgODcz acknowl-|MzMgNzcyIDg2MCA4MzggODcz edgment|MzMgNTIzIDg4MCA1ODQgODk2 signed|MzMgNTg5IDg4MCA2MzUgODk2 each|MzMgNjQwIDg4MCA2NzIgODkz time|MzMgNjc4IDg4MiA3MDggODkz there|MzMgNzE0IDg4MCA3NDkgODkz",
+        " are|MzMgNzU0IDg4NCA3NzUgODkz changes|MzMgNzgxIDg4MCA4MzcgODk2 to|MzMgNTIzIDkwMiA1MzYgOTEz the|MzMgNTQzIDkwMCA1NjMgOTEz code|MzMgNTcwIDkwMCA2MDMgOTEz or|MzMgNjEwIDkwNCA2MjUgOTEz <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"16233\" data-start-offset=\"16201\">policy?|MzMgNjMyIDkwMCA2ODMgOTE2</em> .|MzMgNTExIDkzMCA1MTMgOTMz When|MzMgNTIzIDkyMCA1NjQgOTMz a|MzMgNTYxIDkxNiA1NzQgOTQx branch|MzMgNTg0IDkyMCA2MzEgOTMz official|MzMgNjM4IDkyMCA2ODYgOTMz is|MzMgNjk0IDkyNCA3MDMgOTMy offered|MzMgNzEwIDkyMCA3NjAgOTMz or|MzMgNzY2IDkyNCA3ODAgOTMz given|MzMgNzg2IDkyNCA4MjQgOTM2 a|MzMgODMxIDkyNCA4MzggOTMz"]},
+    "usb_p5.pdf_34":{
+      "content_ocr":["5070.4|MzQgMjYgNDQgNzQgNjg= Other|MzQgMzE2IDQ4IDM1NiA2MQ== Compliance|MzQgMzYyIDQ4IDQ0OCA2NQ== Matters:|MzQgNDU1IDQ5IDUxMyA2MQ== Internal|MzQgNTIxIDQ4IDU3NiA2MQ== Control|MzQgNTgzIDQ4IDYzNyA2MQ== Questionnaire|MzQgNjQ0IDQ4IDc0NCA2NA== |MzQgMjUgNzIgNzQ1IDc1 17.|MzQgMjkgMTAzIDQ4IDExNQ== Does|MzQgNTggMTAzIDkzIDExNQ== the|MzQgOTggMTAzIDExOSAxMTU= branch|MzQgMTI0IDEwMiAxNzIgMTE1 have|MzQgMTc3IDEwMiAyMDkgMTE1 a|MzQgMjE0IDEwNiAyMjEgMTE1 <em data-num-tokens=\"1\" data-score=\"1.0\" data-end-offset=\"465\" data-start-offset=\"434\">policy|MzQgMjI2IDEwMiAyNjkgMTE5</em> that|MzQgMjc1IDEwMiAzMDAgMTE1"]}},
+  "payloads":{
+    "usb_p5.pdf_1":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"1 120 175 175 191",
+            "startOffset":479,
+            "endOffset":512}]}},
+    "usb_p5.pdf_6":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"6 319 163 379 180",
+            "startOffset":497,
+            "endOffset":531}]}},
+    "usb_p5.pdf_7":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"7 328 363 383 379",
+            "startOffset":2087,
+            "endOffset":2121}]}},
+    "usb_p5.pdf_10":{
+      "content_ocr":{
+        "monetary":[{
+            "payload":"10 252 897 318 911",
+            "startOffset":8454,
+            "endOffset":8487}],
+        "policy":[{
+            "payload":"10 327 895 370 911",
+            "startOffset":8488,
+            "endOffset":8519}]}},
+    "usb_p5.pdf_11":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"11 274 163 333 180",
+            "startOffset":536,
+            "endOffset":570}]}},
+    "usb_p5.pdf_12":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"12 262 981 305 998",
+            "startOffset":7878,
+            "endOffset":7909},
+          {
+            "payload":"12 704 203 751 219",
+            "startOffset":10039,
+            "endOffset":10071}]}},
+    "usb_p5.pdf_13":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"13 422 724 466 740",
+            "startOffset":9968,
+            "endOffset":9999},
+          {
+            "payload":"13 338 864 382 880",
+            "startOffset":12577,
+            "endOffset":12608}]}},
+    "usb_p5.pdf_18":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"18 687 363 747 379",
+            "startOffset":5987,
+            "endOffset":6021}]}},
+    "usb_p5.pdf_20":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"20 407 236 467 252",
+            "startOffset":1692,
+            "endOffset":1726},
+          {
+            "payload":"20 378 495 422 512",
+            "startOffset":3867,
+            "endOffset":3898}]}},
+    "usb_p5.pdf_23":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"23 38 879 83 895",
+            "startOffset":7991,
+            "endOffset":8022},
+          {
+            "payload":"23 244 899 291 915",
+            "startOffset":8340,
+            "endOffset":8372},
+          {
+            "payload":"23 530 382 573 398",
+            "startOffset":14840,
+            "endOffset":14871},
+          {
+            "payload":"23 494 581 577 598",
+            "startOffset":17204,
+            "endOffset":17240},
+          {
+            "payload":"23 457 681 500 697",
+            "startOffset":18100,
+            "endOffset":18131},
+          {
+            "payload":"23 660 721 708 737",
+            "startOffset":18747,
+            "endOffset":18779}]}},
+    "usb_p5.pdf_24":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"24 288 142 375 159",
+            "startOffset":799,
+            "endOffset":836},
+          {
+            "payload":"24 280 285 327 301",
+            "startOffset":2423,
+            "endOffset":2455},
+          {
+            "payload":"24 120 1081 168 1097",
+            "startOffset":9980,
+            "endOffset":10016}]}},
+    "usb_p5.pdf_29":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"29 288 122 342 139",
+            "startOffset":504,
+            "endOffset":537},
+          {
+            "payload":"29 125 422 170 438",
+            "startOffset":3324,
+            "endOffset":3355}]}},
+    "usb_p5.pdf_30":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"30 760 384 815 400",
+            "startOffset":10085,
+            "endOffset":10118}]}},
+    "usb_p5.pdf_31":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"31 380 542 435 559",
+            "startOffset":4505,
+            "endOffset":4538}]}},
+    "usb_p5.pdf_32":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"32 423 163 466 180",
+            "startOffset":602,
+            "endOffset":633},
+          {
+            "payload":"32 175 183 229 200",
+            "startOffset":743,
+            "endOffset":776},
+          {
+            "payload":"32 422 303 466 319",
+            "startOffset":2077,
+            "endOffset":2108},
+          {
+            "payload":"32 321 363 389 379",
+            "startOffset":2459,
+            "endOffset":2494},
+          {
+            "payload":"32 260 483 304 499",
+            "startOffset":3559,
+            "endOffset":3590}]}},
+    "usb_p5.pdf_33":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"33 381 227 435 243",
+            "startOffset":735,
+            "endOffset":768},
+          {
+            "payload":"33 221 427 264 443",
+            "startOffset":2658,
+            "endOffset":2689},
+          {
+            "payload":"33 381 720 435 736",
+            "startOffset":4931,
+            "endOffset":4964},
+          {
+            "payload":"33 222 840 266 856",
+            "startOffset":6099,
+            "endOffset":6130},
+          {
+            "payload":"33 221 920 264 936",
+            "startOffset":6764,
+            "endOffset":6795},
+          {
+            "payload":"33 523 183 566 199",
+            "startOffset":9590,
+            "endOffset":9621},
+          {
+            "payload":"33 579 421 622 437",
+            "startOffset":11305,
+            "endOffset":11336},
+          {
+            "payload":"33 650 681 694 697",
+            "startOffset":13769,
+            "endOffset":13800},
+          {
+            "payload":"33 678 860 730 876",
+            "startOffset":15745,
+            "endOffset":15777},
+          {
+            "payload":"33 632 900 683 916",
+            "startOffset":16201,
+            "endOffset":16233}]}},
+    "usb_p5.pdf_34":{
+      "content_ocr":{
+        "policy":[{
+            "payload":"34 226 102 269 119",
+            "startOffset":434,
+            "endOffset":465}]}}}}
