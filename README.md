@@ -42,8 +42,6 @@ In your project, you'll want to include the compiled Vue module from the dist di
 in the `/examples` directory you can view `pdfviewer.loader.js` to see an approach for chaining together the correct order of loading for the JavaScript assets, including the minified Vue runtime. Also included here:
 
 ```js
-/* eslint-disable */
-
 // this file loads the minified Vue runtime, the source code of the compiled PDF viewer
 // module, and the custom script(s) necessary to boot the PDF viewer in your application
 // in sequence. This approach  ensures that each requirement is successfully included
